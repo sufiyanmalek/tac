@@ -1,0 +1,25 @@
+.professionalInfo{
+    /* border: 2px solid red; */
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    flex: 2;
+    border-radius: 5px;
+    padding: 10px 50px;
+    justify-content: center;
+    background-color: white;
+}
+
+.professionalInfo input[type=text],textarea{
+  width: 100%;
+  padding: 12px 10px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+h2{
+    text-align: center;
+}

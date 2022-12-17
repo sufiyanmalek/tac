@@ -1,0 +1,25 @@
+.accountSecurity{
+    /* border: 2px solid green; */
+    display: flex;
+    flex-direction: column;
+     width: 90%;
+    flex: 1;
+    border-radius: 5px;
+    padding: 10px 50px;
+    justify-content: left;
+    background-color: white;
+}
+.accountSecurity input{
+
+  width: 96%;
+  padding: 12px 10px;
+  margin: 8px 0;
+  display: inline;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+h2{
+    text-align: center;
+}

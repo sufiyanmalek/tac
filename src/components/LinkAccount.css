@@ -1,0 +1,19 @@
+.linkAccount{
+    /* border: 2px solid blue; */
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    flex: 1;
+    border-radius: 5px;
+    padding: 10px 50px;
+    justify-content: left;
+    background-color: white;
+    align-items: center;
+}
+
+a{
+    margin-right: 20px;
+}
+h2{
+    text-align: center;
+}

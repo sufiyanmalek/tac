@@ -1,0 +1,15 @@
+.categoryTab{
+    display: inline;
+    margin: 5px;
+    padding: 10px;
+    background-color: rgb(220, 220, 220);
+    box-shadow:  0 0 5px #898888;
+}
+.categoryTab:hover{
+    background-color: red;
+}
+.categories-tabs-section{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 15px 0;
+}

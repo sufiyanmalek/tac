@@ -1,0 +1,30 @@
+.educationTab{
+    background-color: rgb(220, 220, 220);
+    display: inline-block;
+    margin: 5px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow:  0 0 5px #898888;
+}
+.educationTab:hover{
+    background-color: red;
+    
+
+}
+.education-tabs-section{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 15px 0;
+}
+
+.educationTab h4{
+    margin-bottom: 0;
+    margin-top: 5px;
+
+}
+.educationTab span{
+    width: 50%;
+    padding: 5px;
+}
+
